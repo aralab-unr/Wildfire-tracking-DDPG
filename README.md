@@ -21,13 +21,13 @@ The project is divided in 2 parts: Learning and Results.
 
 
 In Learning part, The models in their respective folders will be trained and the data to plot results is generated. 
-1. To train Method1, in `Terminal`, go to Method1 folder and type 
+1. To train Method1, in `Terminal`, go to `Method1` folder and type 
 ``` python main_ddpg.py ```
-2. To train Method2, in `Terminal`, go to Method2 folder and type 
+2. To train Method2, in `Terminal`, go to `Method2` folder and type 
 ``` python main_ddpg.py ```
-3. To train Method3, in `Terminal`, go to Method3 folder and type 
+3. To train Method3, in `Terminal`, go to `Method3` folder and type 
 ``` python main_ddpg.py ```
-4. To train Method4, in `Terminal`, go to Method4 folder and type 
+4. To train Method4, in `Terminal`, go to `Method4` folder and type 
 ``` python main_ddpg.py ```
 
 
