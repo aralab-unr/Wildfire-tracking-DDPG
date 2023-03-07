@@ -8,8 +8,5 @@ We all are aware of consequences of the wildfire, especially when controlling th
 ## How to use
 
 
-## Video Example
-
-
 ## Contact
-
+For any questions regarding the project, please contact through this email gauravsrikar@nevada.unr.edu or aralab2018@gmail.com .
