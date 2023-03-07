@@ -31,7 +31,7 @@ In Learning part, The models in their respective folders will be trained and the
 ``` python main_ddpg.py ```
 
 
-In Results part, The generated data is used to plot graphs for. 
+In Results part, The generated data is used to plot graphs for
 1. Score History
 2. Coverage Ratio
 3. Fastest Coverage
@@ -39,7 +39,7 @@ In Results part, The generated data is used to plot graphs for.
 5. Fire Fallout
 6. Environment Fallout
 
-To access results, open [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) and navigate to Results folder.
+To access results, open [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) and navigate to `Results` folder.
 Open `plots.ipynb` and run all code line-by-line.
 Note: Beofre running the notebook, keep in mind, in case the number of Epoch is changed in the training code, you have to change `Line 9`. Example, for `Epoch = 500` in training files, change `x = np.arange(0,300)` to `x = np.arange(0,500)`.
 
