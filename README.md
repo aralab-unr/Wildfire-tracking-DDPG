@@ -1,6 +1,6 @@
 # Multi-UAV Collaborative Deep Learning and Consensus to Maximize Coverage Over Continuous and Dynamic Wildfire Environment
 
-This is the implementation of methods discussed in the paper, proposed in IROS 2023. To access the paper used this [link](https://drive.google.com/file/d/1pgpPX0bzjf6ChFjhr3SZ44L6XKJNPrqr/view?usp=sharing). You are free to use all or part of the codes here presented for any purpose, provided that the paper is properly cited and the original authors properly credited. All the files here shared come with no warranties.
+This is the implementation of methods discussed in the paper, proposed in IROS 2023. To access the paper used this [link](https://github.com/aralab-unr/Wildfire-tracking-DDPG/blob/main/IROS_2023_Gaurav.pdf). You are free to use all or part of the codes here presented for any purpose, provided that the paper is properly cited and the original authors properly credited. All the files here shared come with no warranties.
 
 
 This project was built on Python 3.9.13 and PyTorch 1.13.0. To access the results, [Jupyter Notebook](http://jupyter.readthedocs.io/en/latest/install.html) is required.
